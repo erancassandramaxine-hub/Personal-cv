@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 500" role="img" aria-labelledby="title">
+  <title id="title">Illustrative preview for POS</title>
+  <rect width="720" height="500" fill="#e6e8dc"/>
+  <circle cx="85" cy="438" r="120" fill="#d0decf"/>
+  <rect x="75" y="53" width="570" height="394" rx="20" fill="#fcfbf6"/>
+  <rect x="75" y="53" width="570" height="57" rx="20" fill="#23483e"/>
+  <path d="M75 90h570v20H75z" fill="#23483e"/>
+  <circle cx="108" cy="82" r="6" fill="#e5a482"/>
+  <circle cx="128" cy="82" r="6" fill="#e5d6a5"/>
+  <circle cx="148" cy="82" r="6" fill="#afcda8"/>
+  <rect x="110" y="144" width="220" height="15" rx="7" fill="#23483e"/>
+  <rect x="110" y="175" width="143" height="8" rx="4" fill="#a4b6a8"/>
+  <rect x="110" y="213" width="335" height="45" rx="10" fill="#edf1e8"/>
+  <rect x="125" y="228" width="116" height="10" rx="5" fill="#73947e"/>
+  <rect x="365" y="225" width="52" height="19" rx="9" fill="#cce2c4"/>
+  <rect x="110" y="270" width="335" height="45" rx="10" fill="#edf1e8"/>
+  <rect x="125" y="285" width="154" height="10" rx="5" fill="#73947e"/>
+  <rect x="365" y="282" width="52" height="19" rx="9" fill="#cce2c4"/>
+  <rect x="110" y="327" width="335" height="45" rx="10" fill="#edf1e8"/>
+  <rect x="125" y="342" width="131" height="10" rx="5" fill="#73947e"/>
+  <rect x="365" y="339" width="52" height="19" rx="9" fill="#cce2c4"/>
+  <rect x="466" y="205" width="143" height="167" rx="12" fill="#f2e3d4"/>
+  <rect x="484" y="225" width="106" height="12" rx="6" fill="#bc7956"/>
+  <rect x="484" y="257" width="91" height="8" rx="4" fill="#cfac93"/>
+  <rect x="484" y="276" width="100" height="8" rx="4" fill="#cfac93"/>
+  <rect x="484" y="317" width="106" height="33" rx="16" fill="#b76f4b"/>
+  <text x="360" y="414" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="4" fill="#315a4b">POINT OF SALE</text>
+</svg>

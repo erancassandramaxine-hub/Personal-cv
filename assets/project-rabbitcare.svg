@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 500" role="img" aria-labelledby="title">
+  <title id="title">Illustrative preview for Nursery Rabbitcare</title>
+  <rect width="720" height="500" fill="#dce9dd"/>
+  <circle cx="617" cy="72" r="110" fill="#c8ddc9"/>
+  <rect x="78" y="55" width="564" height="390" rx="20" fill="#fcfbf6"/>
+  <rect x="78" y="55" width="564" height="56" rx="20" fill="#214b40"/>
+  <path d="M78 91h564v20H78z" fill="#214b40"/>
+  <circle cx="110" cy="82" r="6" fill="#f1b68d"/>
+  <circle cx="130" cy="82" r="6" fill="#dce8b4"/>
+  <circle cx="150" cy="82" r="6" fill="#a8c9ae"/>
+  <rect x="118" y="143" width="181" height="13" rx="6" fill="#355e4b"/>
+  <rect x="118" y="170" width="264" height="8" rx="4" fill="#b0c4b6"/>
+  <rect x="118" y="185" width="233" height="8" rx="4" fill="#b0c4b6"/>
+  <rect x="118" y="220" width="142" height="144" rx="14" fill="#e5ede0"/>
+  <rect x="278" y="220" width="142" height="144" rx="14" fill="#f4e8db"/>
+  <rect x="438" y="220" width="160" height="144" rx="14" fill="#e5ede0"/>
+  <g fill="#7aa082"><ellipse cx="190" cy="285" rx="39" ry="33"/><ellipse cx="178" cy="251" rx="10" ry="28"/><ellipse cx="201" cy="251" rx="10" ry="28"/></g>
+  <circle cx="178" cy="281" r="3" fill="#243c34"/><circle cx="201" cy="281" r="3" fill="#243c34"/>
+  <path d="M186 295q5 5 10 0" fill="none" stroke="#243c34" stroke-width="3" stroke-linecap="round"/>
+  <path d="M302 312c24-63 64-63 92 0" fill="none" stroke="#ca835b" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="349" cy="260" r="19" fill="#e7aa7d"/>
+  <path d="M470 321h97M470 297h73M470 273h90" stroke="#88aa91" stroke-width="10" stroke-linecap="round"/>
+  <text x="360" y="414" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="4" fill="#315a4b">NURSERY RABBITCARE</text>
+</svg>
